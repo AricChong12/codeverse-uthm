@@ -1,3 +1,3 @@
-Just a documentation respository
+Just a personal documentation respository, all rights reserved to...
 
 Credits : Information Technology Club UTHM & Rynet
