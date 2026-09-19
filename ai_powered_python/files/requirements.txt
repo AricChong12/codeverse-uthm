@@ -1,0 +1,6 @@
+requests
+groq
+python-dotenv
+
+# Optional - only needed for the Part 3 bonus script (via_claude.py)
+anthropic
